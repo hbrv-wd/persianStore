@@ -1,1 +1,6 @@
-persianStore
+persianStore 
+
+a project by @hbrv-wd 
+
+این پروژه نمونه کاملی از یک فروشگاه اینترنتی در زبانت فارسی است\
+که توسط کتابخانه REACT طراحی شده است 
